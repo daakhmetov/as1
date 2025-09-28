@@ -1,0 +1,5 @@
+algo,n,timeNs,comparisons,allocations,maxDepth
+MergeSort,5,6600,9,1,1
+mergesort,100,50300,648,1,4
+quicksort,100,512000,722,0,14
+select,50,2577400,128,48,6
