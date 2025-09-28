@@ -1,3 +1,4 @@
+package algo;
 public class MergeSort {
     private final Metrics metrics;
     private static final int CUTOFF = 20; // используем insertion sort для маленьких массивов

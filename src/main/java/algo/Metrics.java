@@ -1,3 +1,5 @@
+package algo;
+
 public class Metrics {
     private long comparisons = 0;
     private long allocations = 0;

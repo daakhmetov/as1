@@ -1,5 +1,8 @@
 import org.junit.jupiter.api.Test;
 
+import algo.DeterministicSelect;
+import algo.Metrics;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class DeterministicSelectTest {

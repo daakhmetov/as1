@@ -1,3 +1,4 @@
+package algo;
 import java.util.Random;
 
 public class QuickSort {

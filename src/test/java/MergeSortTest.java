@@ -1,5 +1,8 @@
 import org.junit.jupiter.api.Test;
 
+import algo.MergeSort;
+import algo.Metrics;
+
 import java.util.Random;
 
 import static org.junit.jupiter.api.Assertions.*;
